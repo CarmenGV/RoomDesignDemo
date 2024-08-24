@@ -10,7 +10,7 @@ This project uses the following languages:
 * jQuery
 
 # Demo 
-You can view a live demo here: [Future ECommerce Demo](https://carmengv.github.io/FurnitureECommerce/index.html)
+You can view a live demo here: [Room Homepage Demo](https://carmengv.github.io/FurnitureECommerce/index.html)
 
 # Additional Information
 This was challenge project offered by Frontend Mentor to help developers refine their skills. 
