@@ -14,5 +14,7 @@ You can view a live demo here: [Room Homepage Demo](https://carmengv.github.io/F
 
 # Additional Information
 This was challenge project offered by Frontend Mentor to help developers refine their skills. 
+
 Challenge: [Room Homepage](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq)
+
 [Frontend Mentor Homepage](https://www.frontendmentor.io)
